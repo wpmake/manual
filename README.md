@@ -1,8 +1,8 @@
 # manual
 WordPressコントリビュート勉強会について
+コントリビュート初心者向に作業手順や、コントリビュートを行う上で役にたつリンク集です。
 
 **目次**
-
 
 ## ◆コントリビュートが初めての方
 まずは、次の手順で実施してみてください。
@@ -15,5 +15,9 @@ WordPress.orgのアカウント作成とSlack（チャットツール）の登�
 
 次の記事も参考になります。  
 --[WordPress Slack について｜Slackって？どうやって参加するの？](http://nuuno.net/note/wordpress-slack/)
+
+### ３．初めてのコントリビュート！翻訳をしてみよう！
+[翻訳の始め方｜WordPress.org日本語](https://ja.wordpress.org/get-involved/translation-first-steps/)
+まずは、単語１つからの翻訳を初めてみてください。
 
 ## ◆
