@@ -25,7 +25,6 @@ WordPress.orgのアカウント作成とSlack（チャットツール）の登�
 ### ドキュメンテーション (Codex 日本語版)
 ### 翻訳 (WordPress コア・プラグイン・テーマの日本語化)
 [WordPress の翻訳/翻訳ガイドライン](http://wpdocs.osdn.jp/WordPress_%E3%81%AE%E7%BF%BB%E8%A8%B3/%E7%BF%BB%E8%A8%B3%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)  
-[WordPress の翻訳/翻訳ガイドライン](http://wpdocs.osdn.jp/WordPress_%E3%81%AE%E7%BF%BB%E8%A8%B3/%E7%BF%BB%E8%A8%B3%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)  
 [Glossary for Japanese translation of 4.5.x｜用語集（英語⇔日本語](https://translate.wordpress.org/projects/wp/dev/ja/default/glossary)  
 
 ### WordPress 日本語サポートフォーラム
